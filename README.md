@@ -1,4 +1,4 @@
-# Stock_Portfolio_Optimization
+# Stock Portfolio Optimization
 
 In this project, I optimized the S&P 500 stock portfolio by only selecting the 15 most influencial companies within the index.
 
