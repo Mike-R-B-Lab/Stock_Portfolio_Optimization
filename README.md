@@ -5,7 +5,7 @@ In this project, I optimized the S&P 500 stock portfolio by only selecting the 1
 The correlation values of all stocks in the S&P 500 from 2010 to 2020 were used to produce a minimum spanning tree (MST). 
 
 Within that tree, I was able to find the 15 stocks with the highest average degree of centrality and betweeness centrality (red nodes). They were placed in the Central Portfolio.
-The 15 least influential stocks were identified by selecting those with the greatest average distance from the most central stocks on the basis of 3 criteria: degree of centrality, eigenvector centrality and closeness centrality (green nodes). The were added to the Peripheral Portfolio.
+The 15 least influential stocks were identified by selecting those with the greatest average distance from the most central stocks on the basis of 3 criteria: degree of centrality, eigenvector centrality and closeness centrality (green nodes). They were added to the Peripheral Portfolio.
 
 ![image](https://github.com/user-attachments/assets/9a469928-6e17-41c3-a9c2-6e3b4a8fafa8)
 
